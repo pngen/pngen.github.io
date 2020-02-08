@@ -1,11 +1,7 @@
-@font-face {
-  font-family: 'JetBrains Mono Regular', 'Courier New', Courier, monospace;
-  src: url(css/fonts/JetBrainsMono-*.eot);
-}
 body {
   font-size: 20px;
   color: #212529;
-  font-family: 'JetBrains Mono Regular', 'Courier New', Courier, monospace;
+  font-family: 'Lato', 'JetBrains Mono Regular', 'Courier New', Courier, monospace;
 }
 
 p {
